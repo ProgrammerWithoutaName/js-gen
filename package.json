@@ -1,0 +1,28 @@
+{
+  "name": "js-gen",
+  "version": "0.0.1",
+  "description": "AST to Javascript code generator",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^1.7.1",
+    "esprima": "^2.6.0",
+    "fs-promise": "^0.3.1",
+    "jasmine": "^2.3.2"
+  },
+  "devDependencies": {
+    "proxyquire": "^1.7.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammerWithoutaName/js-gen.git"
+  },
+  "author": "ProgrammerWithoutAName",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProgrammerWithoutaName/js-gen/issues"
+  },
+  "homepage": "https://github.com/ProgrammerWithoutaName/js-gen#readme"
+}
